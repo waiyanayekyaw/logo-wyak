@@ -1,0 +1,27 @@
+.logo {
+    padding: 50px 0;
+}
+.navigation {
+    background: purple;
+    padding: 20px 0;
+}
+.navigation a {
+    color: white;
+
+}
+.navigation ul {
+    margin-bottom: 0;
+}
+.footer {
+    background: #333;
+    color: white;
+    padding: 80px 0;
+
+}
+.content {
+    margin: 50px 0;
+}
+
+.container p{
+    text-align: center;
+}
